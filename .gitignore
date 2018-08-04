@@ -2,3 +2,4 @@ node_modules
 _site/
 .sass_cache
 .jekyll-metadata
+package-lock.json
