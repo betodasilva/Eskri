@@ -3,6 +3,7 @@ const gulp = require('gulp'),
     sass = require('gulp-sass'),
     browserSync = require('browser-sync').create(),
     shell = require('gulp-shell'),
+    clean = require('gulp-clean'),
     siteRoot = '_site';
 
 
@@ -22,8 +23,13 @@ gulp.task('uglify', function(){
     
 });
 
-gulp.task('minify', function(){
-    gulp.src( [dir.sass + '/main.scss', dir.base + '/vendor/vendor.scss'] )
+gulp.task('clean-css', function(){
+    return gulp.src('/build/css', {read: false})
+        .pipe(clean());
+})
+gulp.task('minify', ['clean-css'], function(){
+    
+    gulp.src( [dir.base + '/sass/main.scss', dir.base + '/vendor/vendor.scss'] )
         .pipe(sass({
             outputStyle: 'compressed'
         })).on('error', sass.logError)
