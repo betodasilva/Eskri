@@ -1,6 +1,29 @@
 
 $radius: 12px;
-$grey-dark: hsl(0, 0%, 28%);
+
+// Bulma Variables
+$black:        hsl(0, 0%, 4%) !default;
+$black-bis:    hsl(0, 0%, 7%) !default;
+$black-ter:    hsl(0, 0%, 14%) !default;
+
+$grey-darker:  hsl(0, 0%, 21%) !default;
+$grey-dark:    hsl(0, 0%, 29%) !default;
+$grey:         hsl(0, 0%, 48%) !default;
+$grey-light:   hsl(0, 0%, 71%) !default;
+$grey-lighter: hsl(0, 0%, 86%) !default;
+
+$white-ter:    hsl(0, 0%, 96%) !default;
+$white-bis:    hsl(0, 0%, 98%) !default;
+$white:        hsl(0, 0%, 100%) !default;
+
+$orange:       hsl(14,  100%, 53%) !default;
+$yellow:       hsl(48,  100%, 67%) !default;
+$green:        hsl(141, 71%,  48%) !default;
+$turquoise:    hsl(171, 100%, 41%) !default;
+$cyan:         hsl(204, 86%,  53%) !default;
+$blue:         hsl(217, 71%,  53%) !default;
+$purple:       hsl(271, 100%, 71%) !default;
+$red:          hsl(348, 100%, 61%) !default;
 
 .header {
     //background-color: #f6f7f8;
@@ -26,8 +49,9 @@ $grey-dark: hsl(0, 0%, 28%);
     transition: transform 280ms ease;
     will-change: transform;
     cursor: pointer;
+    box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.15);
     &:hover {
-        transform: translateY(-1rem);
+        transform: translateY(-0.75rem);
     }
     &-image img {
         border-top-left-radius: $radius;
