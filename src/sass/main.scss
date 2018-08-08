@@ -1,0 +1,45 @@
+
+$radius: 12px;
+$grey-dark: hsl(0, 0%, 28%);
+
+.header {
+    //background-color: #f6f7f8;
+    box-shadow: 0 1px 3px 1px rgba(0, 0, 0, 0.25);
+    padding: 12px 0;
+}
+
+
+.navbar {
+    background-color: inherit;
+    &-brand img {
+        margin-top: 8px;
+    }
+}
+
+.main {
+    background-color: #f6f7f8;
+}
+
+.card {
+    border-radius: $radius;
+    transform: translateY(0);
+    transition: transform 280ms ease;
+    will-change: transform;
+    cursor: pointer;
+    &:hover {
+        transform: translateY(-1rem);
+    }
+    &-image img {
+        border-top-left-radius: $radius;
+        border-top-right-radius: $radius;
+    }
+    
+}
+
+.footer {
+    &__copyright { margin-top: 40px; }
+
+    &__list li a {
+        color: $grey-dark;
+    }
+}
