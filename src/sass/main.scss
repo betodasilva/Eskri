@@ -3,6 +3,7 @@ $grey-dark: hsl(0, 0%, 28%);
 @import "variables";
 @import "mixins";
 @import "single";
+@import "typescale";
 
 
 h1.title, h2.title, h3.title {
@@ -14,7 +15,7 @@ body {
 }
 
 .header {
-    background-color: #3ac569;
+    background-color: $primary;
     box-shadow: 0 1px 3px 1px rgba(0, 0, 0, 0.25);
     padding: 12px 0;
 }
@@ -57,6 +58,10 @@ body {
     .columns {
         align-items: center;
     }
+
+    &__copyright p {
+        margin-bottom: 0;
+    }
 }
 
 .is-between {
@@ -65,12 +70,37 @@ body {
 
 .section {
     &--posts {
-        background: $black ;
+        background: $black;
+    }
+
+    &--copy {
+        background: #f6f7f8;
     }
 }
 
 .card {
     .title {
         font-weight: normal;
+    }
+}
+
+.navbar {
+    &-item:hover {
+        color: #fff;
+    }
+}
+
+ul {
+    li {
+        margin-bottom: 10px;
+        &:before {
+            content: "\f101";
+            display: inline-block;
+            vertical-align: middle;
+            font-family: "Font Awesome 5 Free";
+            margin-right: 10px;
+            font-weight: 900;
+            color: $primary-2;
+        }
     }
 }

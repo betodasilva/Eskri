@@ -2,7 +2,7 @@
 $vt-margin: 32px;
     
 .single-post {
-    background: #f9f8f6;
+    background: #fff;
     padding: 0 20px;
     margin-bottom: 60px;
     border-radius: 20px;
@@ -23,6 +23,7 @@ $vt-margin: 32px;
     padding-top: 40px;
     padding-bottom: 40px;
     text-align: center;
+    box-shadow: 0px 8px 40px 0px rgba( 0, 0, 0, 0.05 );
     z-index: 3;
     &__content {
         padding: 0 40px;
@@ -149,8 +150,8 @@ $vt-margin: 32px;
         content: "";
         position: absolute;
         top: 0;
-        height: 1px;
-        background: $black;
+        height: 3px;
+        background: $primary;
     }
 
     &:before {    
