@@ -3,3 +3,4 @@ _site/
 .sass_cache
 .jekyll-metadata
 package-lock.json
+Gemfile.lock
