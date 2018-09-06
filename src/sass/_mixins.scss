@@ -1,0 +1,27 @@
+@mixin tablet {
+    @media (min-width: #{$tablet-width}) and (max-width: #{$desktop-width - 1px}) {
+        @content;
+    }
+}
+
+@mixin desktop {
+    @media (min-width: #{$desktop-width}) {
+        @content;
+    }
+}
+
+@mixin flexbox {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+@mixin flexbox-mid {
+    @include flexbox();
+    align-items: center;
+}
+
+@mixin flex-center-both {
+    @include flexbox();
+    justify-content: center;
+    align-items: center;
+}

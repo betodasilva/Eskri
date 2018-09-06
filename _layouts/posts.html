@@ -5,29 +5,18 @@ layout: default
 {% assign post = page %}
 <article class="single-post">
     <header class="single-header{% if post.bg-color %} {{ post.bg-color }}{% endif %}">
-        <div class="single-meta">
-            <div class="single-meta__author author">
-                <div class="author__img author__img--bordered">
-                    <img src={{ "/images/avatar/thumb4.jpeg" | prepend: site.url }} alt="Beto da Silva"/>
-                </div>
-                <span class="author__name">Beto da Silva</span>
-            </div>
-            <div class="single-meta__posted-on posted-on">
-                <span>{{ post.date | date_to_long_string }} :calendar:</span>
-            </div>
-        </div>
-        {% if post.categories %}
-        <div class="categories__list">
-            {% for category in post.categories %}
-                <a href="" class="category {{category}}">{{ category }}</a>
-            {% endfor %}
-        </div>
-        {% endif %}
         <div class="single-header__content">
-            <h1 class="single-title">{{ post.title }}</h1>
-            <p class="single-subtitle">{{ post.subtitle }}</p>
+            <h1 class="title is-size-1">{{ post.title }}</h1>
+            <p class="single-subtitle is-size-5">{{ post.subtitle }}</p>
         </div>
-
+        <div class="single-meta">
+            <div class="single-meta__posted-on posted-on has-text-left">
+                <small>Postado em:</small><br> <time>{{ post.date | date_to_long_string }}</time>
+            </div>
+            <div class="single-meta__share">
+                <a href="#"></a>
+            </div>
+        </div>
     </header>
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
     

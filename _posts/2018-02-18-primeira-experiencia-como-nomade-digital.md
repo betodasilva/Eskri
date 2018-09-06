@@ -5,7 +5,6 @@ subtitle: ...e pouco mais de 01 ano como desenvolvedor web (há 03 meses freelan
 thumbnail_image: /images/posts/thumbnail-experiencia-digital-nomade.png
 image: /images/posts/experiencia-digital-nomade.png
 categories: [nomade-digital]
-bg-color: orange
 ---
 
 **Nômade Digital vem sendo um dos termos mais falados de uns tempos pra cá. Nas gringas o termo já se tornou enjoativo; dentro do Brasil muitos aderiraram o estilo de vida e se mandaram. Mas onde estão os nômades de primeira viagem que iniciam sua experiência dentro do país?**

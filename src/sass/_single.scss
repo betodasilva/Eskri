@@ -1,0 +1,246 @@
+/* SINGLE POSTS */
+$vt-margin: 32px;
+    
+.single-post {
+    background: #f9f8f6;
+    padding: 0 20px;
+    margin-bottom: 60px;
+    border-radius: 20px;
+    @include desktop(){
+        padding: 0 80px;
+        margin-bottom: 120px;
+    }
+}
+
+
+.single-header {
+    @include flexbox-mid();
+    align-content: center;
+    background-color: #fff;
+    position: relative;
+    height: 100%;
+    margin: 0 -20px 60px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    text-align: center;
+    z-index: 3;
+    &__content {
+        padding: 0 40px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+    @include desktop {
+        margin-left: -80px;
+        margin-right: -80px;
+        height: 460px;
+        &__content {
+            max-width: 800px;
+            padding: 0 20px;
+        }
+    }
+
+    @media (min-width: 1620px) {
+        padding-left: 25%;
+        padding-right: 25%;
+    }
+
+    &.orange {
+        background-color: $main;
+        color: #fff;
+    }
+
+    &.black {
+        background-color: $black;
+        color: #fff;
+    }
+
+    &.purple {
+        background-color: $secondary;
+        color: #fff;
+    }
+}
+    
+.single-image {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;  
+    margin-bottom: $vt-margin;
+    max-height: 460px;
+    margin-right: -20px;
+    margin-left: -20px;
+    position: relative;
+    &:after {
+        content: "";
+        position: absolute;
+        left:0; top: 0; right: 0; bottom: 0;
+        background-color: rgba(0,0,0,0.44);
+    }
+    
+    @include desktop(){
+        height: 460px;
+        margin-bottom: 64px;
+        margin-left: -80px;
+        margin-right: -80px;
+        
+    }
+    
+}
+    
+ 
+.single-title {
+    font-weight: 600;
+    font-size: 24px;
+    @media (min-width: 1024px) {
+        font-size: 36px;
+    }
+}
+    
+.single-subtitle {
+    font-size: 18px;
+    font-weight: 700;
+    margin-bottom: 0;
+    @media (max-width: 780px) {
+        font-size: 14px;
+    }
+}
+
+.single-content {
+    color: $black;
+    padding-left: 20px;
+    padding-right: 20px;
+    > p, ul, ol {
+        margin-bottom: 32px;
+    }
+    
+    > h1,
+    > h2,
+    > h3,
+    > h4,
+    > h5
+    {
+        font-weight: 700;
+    }
+    
+    @include desktop {
+        font-size: 21px;
+        max-width: 800px;
+        margin-left: auto;
+        margin-right: auto;
+        padding: 0;
+        > p, ul {
+            margin-bottom: 42px;
+        }
+    }
+    
+}
+    
+// Meta
+    
+.single-meta {
+    @include flexbox-mid();
+    justify-content: center;
+    padding-top: 20px;
+    margin-top: 40px;
+    line-height: 1;
+    width: 100%;
+    position: relative;
+    &:before, &:after {
+        content: "";
+        position: absolute;
+        top: 0;
+        height: 1px;
+        background: $black;
+    }
+
+    &:before {    
+        left: 0;
+        width: 20%;
+    }
+
+    &:after {
+        right: 0;
+        width: 75%;
+    }
+
+    small {
+        font-style: italic;
+    }
+
+    &__posted-on {
+        width: 100%;
+        text-align: center;
+    }
+    
+    &__author {
+        order: 3;
+    }
+
+    
+    @include desktop(){
+        margin-left: auto;
+        margin-right: auto;
+        max-width: 740px;
+        
+        
+        &__author {
+            order: 0;
+        }
+        
+    }
+    
+    
+    
+}
+    
+    // Author
+    
+.author {
+        
+    &__img {
+        max-width: 32px;
+        width: 32px;
+        height: 32px;
+        border-radius: 100%;
+        overflow: hidden;
+        display: inline-block;
+        vertical-align: middle;
+        
+        > img {
+            max-width: 40px !important;
+            transform: translateY(-8px);
+        }
+        
+    }
+    
+    &__img--bordered {
+        //border: 3px solid #fff;
+        //border-right-color: transparent;
+        box-shadow: -1px 1px 4px 0 rgba(0, 0, 0, 0.25);
+    }
+    
+    &__name {
+        font-weight: 600;
+        text-transform: uppercase;
+        letter-spacing: 0.44px;
+        margin-left: 5px;
+        font-size: 12px;
+    }
+    
+    @include desktop() {
+        
+        &__img {
+            max-width: 62px;
+            width: 62px;
+            height: 62px;
+            > img {
+                max-width: 70px !important;
+            }
+        }
+        &__name {
+            font-size: 14px;
+            margin-left: 10px;
+        }
+    }
+    
+}

@@ -1,29 +1,32 @@
 ---
 layout: default
 ---
-<div class="hero is-medium has-background-primary">
+<div class="hero has-background-white">
   <div class="hero-body">
     <div class="container">
-      <h1 class="title has-text-weight-normal has-text-white-bis">Os Melhores Itens<br> de Diversas Categorias<br> Com o <strong class="has-text-weight-bold has-text-white-bis">Melhor Custo Benefício</strong></h1>
+      <h1 class="title has-text-weight-normal has-text-black">Os Melhores Itens de Diversas Categorias<br> Com o <strong class="has-text-weight-bold has-text-primary">Melhor Custo Benefício</strong></h1>
     </div>
   </div>
 </div>
-<section class="section">
+<section class="section section--posts">
   <div class="container">
     <div class="columns">
+      {% for post in site.posts %}
       <div class="column is-one-third">
           <div class="card">
             <div class="card-content">
               <div class="content">
-                <a href="#"><h2 class="title is-size-4 has-text-primary">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                    Phasellus nec iaculis mauris.
-                </h2></a>
-                <p class="has-text-grey">Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit sapiente ipsum nihil sequi, error dignissimos eaque?</p>
+                <a href="{{ post.url }}">
+                  <h2 class="title is-size-4">
+                    {{ post.title }}
+                  </h2>
+                </a>
+                <p class="has-text-grey">{{ post.excerpt }}</p>
               </div>
             </div>
           </div>
       </div>
+      {% endfor %}
     </div>
   </div>
 </section>

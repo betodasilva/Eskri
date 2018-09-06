@@ -1,9 +1,20 @@
-
 $radius: 12px;
 $grey-dark: hsl(0, 0%, 28%);
+@import "variables";
+@import "mixins";
+@import "single";
+
+
+h1.title, h2.title, h3.title {
+    font-family: 'Palanquin Dark', sans-serif;
+}
+
+body {
+    font-family: 'Hind', sans-serif;
+}
 
 .header {
-    //background-color: #f6f7f8;
+    background-color: #3ac569;
     box-shadow: 0 1px 3px 1px rgba(0, 0, 0, 0.25);
     padding: 12px 0;
 }
@@ -13,6 +24,10 @@ $grey-dark: hsl(0, 0%, 28%);
     background-color: inherit;
     &-brand img {
         margin-top: 8px;
+    }
+    a {
+        color: $mywhite;
+        font-family: 'Palanquin Dark', sans-serif;
     }
 }
 
@@ -27,7 +42,7 @@ $grey-dark: hsl(0, 0%, 28%);
     will-change: transform;
     cursor: pointer;
     &:hover {
-        transform: translateY(-1rem);
+        transform: translateY(-0.5rem);
     }
     &-image img {
         border-top-left-radius: $radius;
@@ -37,9 +52,24 @@ $grey-dark: hsl(0, 0%, 28%);
 }
 
 .footer {
-    &__copyright { margin-top: 40px; }
+    padding: 20px 0;
+    .columns {
+        align-items: center;
+    }
+}
 
-    &__list li a {
-        color: $grey-dark;
+.is-between {
+    justify-content: space-between;
+}
+
+.section {
+    &--posts {
+        background: $black ;
+    }
+}
+
+.card {
+    .title {
+        font-weight: normal;
     }
 }
