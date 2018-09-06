@@ -13,11 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: The Lorem Ipsum | A New WebSite
+title: Escrivaninhas
 email: your-email@domain.com
 description: ""
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://betoo.com.br" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://escrivaninhas.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: beto_js_
 github_username:  betodasilva
 
