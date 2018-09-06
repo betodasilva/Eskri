@@ -41,6 +41,7 @@ body {
     transition: transform 280ms ease;
     will-change: transform;
     cursor: pointer;
+    box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.15);
     &:hover {
         transform: translateY(-0.5rem);
     }
