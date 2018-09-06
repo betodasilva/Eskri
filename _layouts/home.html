@@ -1,32 +1,11 @@
 ---
 layout: default
 ---
-<div class="hero has-background-white">
-  <div class="hero-body">
-    <div class="container">
-      <h1 class="title has-text-weight-normal has-text-black">Os Melhores Itens de Diversas Categorias<br> Com o <strong class="has-text-weight-bold has-text-primary">Melhor Custo Benefício</strong></h1>
-    </div>
-  </div>
-</div>
-<section class="section section--posts">
+{% include hero.html %}
+<section class="section section--article">
   <div class="container">
-    <div class="columns">
-      {% for post in site.posts %}
-      <div class="column is-one-third">
-          <div class="card">
-            <div class="card-content">
-              <div class="content">
-                <a href="{{ post.url }}">
-                  <h2 class="title is-size-4">
-                    {{ post.title }}
-                  </h2>
-                </a>
-                <p class="has-text-grey">{{ post.excerpt }}</p>
-              </div>
-            </div>
-          </div>
-      </div>
-      {% endfor %}
-    </div>
+    <article class="single-content">
+     {{ content }}
+    </article>
   </div>
-</section>
+</section> 
