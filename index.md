@@ -2,6 +2,8 @@
 layout: home
 title: Melhores Escrivaninhas para Quarto, Sala ou Escritório em 2018
 subtitle: Nossa missão é te ajudar a escolher a melhor escrivaninha custo benefício para utilizar no seu quarto, sala ou escritório seja para estudo ou trabalho.
+tags: escrivaninha, escrivaninha para quarto, escrivaninha para escritório, escrivaninha em l, escrivaninha de canto, escrivaninha suspensa
+categories: escrivaninha
 weight: 1
 ---
 Somos o site que vai tirar todas suas dúvidas sobre escrivanihas e te ajudar a escolher a que se encaixa perfeitamente com a sua necessidade.
