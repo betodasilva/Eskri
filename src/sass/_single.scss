@@ -139,8 +139,9 @@ $vt-margin: 32px;
 // Meta
     
 .single-meta {
-    @include flexbox-mid();
-    justify-content: center;
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
     padding-top: 20px;
     margin-top: 40px;
     line-height: 1;
@@ -169,8 +170,10 @@ $vt-margin: 32px;
     }
 
     &__posted-on {
-        width: 100%;
         text-align: center;
+        @media (min-width: 992px) {
+            width: 22%;
+        }
     }
     
     &__author {
