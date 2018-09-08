@@ -1,0 +1,1 @@
+function initApp(){(new Sharer).setUrls()}function Sharer(){this.elements=document.querySelectorAll(".share__item")}document.addEventListener("DOMContentLoaded",initApp),Sharer.prototype.setUrls=function(){Array.from(this.elements).forEach(function(e){var t=e.getAttribute("href");e.setAttribute("href",t+window.location.href)})};
