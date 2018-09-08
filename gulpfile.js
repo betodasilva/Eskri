@@ -17,7 +17,7 @@ var dir = {
 
 
 gulp.task('uglify', function(){
-    gulp.src( dir.js + '/*' )
+    gulp.src( dir.base + '/js/scripts.js' )
         .pipe(uglify())
         .pipe(gulp.dest('build/js'));
     
@@ -44,7 +44,7 @@ gulp.task('watch', function(){
             baseDir: siteRoot
         }
     });
-    gulp.watch('./src/*.js', ['uglify']);
+    gulp.watch('./src/js/*.js', ['uglify']);
     gulp.watch('./src/sass/*.scss', ['sass-watch']);
     gulp.watch('./src/vendor/*.scss', ['sass-watch']);
 });
