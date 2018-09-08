@@ -116,6 +116,7 @@ ul {
         --size: 42px;
         position: relative;
         overflow: hidden;
+        text-align: center;
         display: inline-block;
         vertical-align: middle;
         width: var(--size);
@@ -154,6 +155,8 @@ ul {
 
         > span {
             position: relative;
+            display: inline-block;
+            line-height: 1;
         }
 
         @media (min-width: 1024px ) {
@@ -162,4 +165,11 @@ ul {
             }
         }
     }
+}
+
+.wrapper {
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40px;
 }
