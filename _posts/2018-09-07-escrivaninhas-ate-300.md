@@ -2,21 +2,30 @@
 layout: posts
 title: 34 Ótimas Escrivaninhas (Boas, Baratas e Duradoras) para Comprar Até R$300
 ---
+<div id="toc" class="toc" markdown="1">
+<p class="toc__title">Tabela de conteúdo <a href="javascript:;" id="toc__toggler">[exibir/ocultar]</a></p>
+* TOC
+{: toc }
+{: .table-of-content }
+</div>
+
+### Escrivaninha suspensa cor branca 
 
 Essa escrivaninha suspensa é ideal para pôr na sala, pois possui espaço para adicionar suporte para televisão, espaço para pôr o notebook e outros compartimentos que cabem perfeitamente sua impressora, livros e até telefone, como mostrado no exemplo. A cor branca na escrivaninha deixa-a combinando com qualquer móvel da sala.
 
 ![Escrivaninha Branca Suspensa com Suporte Para TV. Possui gavetas.](../images/escrivaninhas/escrivaninhas-branca-suspensa-suporte-para-tv-gavetas.jpg)
 
-A escrivaninha acima é recomendada para colocar em quartos ou no próprio escritório. Possui um design muito elegante que combina com a maioria dos móveis. Possui 2 gavetas, sendo uma menorzinha que possui um espaço livre em cima, e a outra gaveta possui um espaço maior. Ideal para guardar fichários ou materiais de tamanho médio para grande. 
+### Escrivaninha com duas gavetas cor madeira
+
+A escrivaninha abaixo é recomendada para colocar em quartos ou no próprio escritório. Possui um design muito elegante que combina com a maioria dos móveis. Possui 2 gavetas, sendo uma menorzinha que possui um espaço livre em cima, e a outra gaveta possui um espaço maior. Ideal para guardar fichários ou materiais de tamanho médio para grande. 
 
 Ela possui opções de duas cores, sendo uma na cor branca e outra na cor marrom.
 
 ![Escrivaninha Bonita Cor Marrom Madeira Para Quarto Com Duas Gavetas](../images/escrivaninhas/escrivaninha-bonita-cor-marrom-madeira-para-quarto-pequeno.jpg)
 
-![Escrivaninha Bonita Cor Marrom Madeira Para Quarto](../images/escrivaninhas/escrivaninha-branca-com-gavetas-para-quarto-pequeno.jpg)
 
+### Escrivaninha moderna, cor branca e gaveta larga
 
-**Escrivaninha moderna, cor branca e gaveta larga.**
 Se você tá precisando de uma escrivaninha mais simples, mas que ao mesmo tempo muito elegante, eu recomendo escolher a da foto abaixo.
 
 Ela possui um estilo bem minimalista, possuindo apenas uma gaveta larga e uma superfície lisa perfeita para pôr o seu notebook e materiais de papelaria.
@@ -24,7 +33,7 @@ Ela possui um estilo bem minimalista, possuindo apenas uma gaveta larga e uma su
 Serve para escrever, desenhar e usar o computador.
 ![Escrivaninha Branca com Design Moderno e Gaveta Larga](../images/escrivaninhas/escrivaninha-branca-design-moderno-gaveta-larga.jpg)
 
-**Escrivaninha moderna, design elegante de cor branca.**
+### Escrivaninha moderna, design elegante de cor branca
 
 Dependendo do ambiente que você estiver montando, esta escrivaninha estilo hipster abaixo pode combinar muito com seu ambiente.
 
@@ -33,7 +42,7 @@ O design moderno com pernas no estilo mesa traz um diferencial para seu quarto, 
 Há espaço para você decorar com livros ou plantas, que dá um visual bem natural e aconhegante.
 ![Escrivaninha Branca com Design Hipster Pernas Cruzadas de Mesa](../images/escrivaninhas/escrivaninha-branca-design-moderno-madeira.jpg)
 
-**Escrivaninha branca com duas gavetas largas**
+### Escrivaninha branca com duas gavetas largas
 
 Este tipo de escrivaninha que você está vendo abaixo serve muito bem para usar com o computador. 
 
@@ -44,7 +53,7 @@ Isto porque o espaço largo embaixo da escrivaninha permite que você deixe suas
 Portanto, se não quiser ter esse problema, a escrivaninha abaixo é ideal para você.
 ![Escrivaninha Branca com Design Moderno e Gaveta Larga](../images/escrivaninhas/escrivaninha-branca-duas-gavetas-bonita.jpg)
 
-**Escrivaninha branca com duas gavetas laterais**
+### Escrivaninha branca com duas gavetas laterais
 
 Na minha opinião esta escrivaninha combina perfeitamente para você usar com computador desktop, apesar da foto estar com um notebook como exemplo.
 
@@ -56,7 +65,7 @@ Portanto se você precisa de uma escrivaninha para computador considere escolher
 
 ![Escrivaninha Branca com Design Moderno e Gaveta Larga](../images/escrivaninhas/escrivaninha-branca-duas-gavetas-espaco-para-livro.jpg)
 
-**Escrivaninha minimalista. Branca, simples e elegante**
+### Escrivaninha minimalista. Branca, simples e elegante
 
 Você está em busca de uma escrivaninha espaçosa?
 
@@ -70,7 +79,7 @@ Vai ficar muito elegante no seu quarto ou escritório.
 
 ![Escrivaninha Branca com Design Moderno e Gaveta Larga](../images/escrivaninhas/escrivaninha-branca-larga-espacosa-simples.jpg)
 
-**Escrivaninha branca compacta para quartos pequenos**
+### Escrivaninha branca compacta para quartos pequenos
 
 Muito charme para pouco tamanho, ou melhor. Muito chame para o tamanho ideal!
 
@@ -109,6 +118,7 @@ Outra vantagem desse modelo é que possui 4 gavetas, profundas e com espaço suf
 ![Escrivaninha Branca com Design Moderno e Gaveta Larga](../images/escrivaninhas/escrivaninha-com-4-gavetas-branca-para-escritorio.jpg)
 
 **Escrivaninha marrom claro com duas gavetas e espaço extra**
+
 Se ao invés de computador você possuir notebook mas ainda assim estiver em busca de uma opção com gavetas, o modelo abaixo pode servir para você.
 
 A foto de exemplo abaixo mostra como pode ficar elegante o design com poucos itens sobre à mesa.
