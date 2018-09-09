@@ -152,6 +152,95 @@ Dessa forma você pode movê-lo para ver filmes antes de dormir. E na hora de tr
 ![Escrivaninha Branca com Design Moderno e Gaveta Larga](../images/escrivaninhas/escrivaninha-cor-madeira-clara-com-rodinhas.jpg)
 
 
+**Escrivaninha rústica com 3 gavetas**
+
+Se você é um apaixonado pelo estilo rústico e adora essas coloração forte de madeira, a escrivaninha abaixo vai te agradar e muito.
+
+Ela tem uma cor de marrom forte, com as marcas de madeira à mostra, que combinam com ambientes que já estão decorados neste estilos.
+
+A escrivaninha rústica abaixo possui 3 gavetas para deixar seus materiais organizados.
+
+![Escrivaninha Branca com Design Moderno e Gaveta Larga](../images/escrivaninhas/escrivaninha-cor-marrom-madeira-3-gavetas.jpg)
 
 
+**Escrivaninha em L (de canto) com armário e duas gavetas**
+
+A escrivainha em L, também conhecida como escrivaninha de canto, é uma das mais procuradas na internet e está em grande tendência.
+
+Uma das maiores vantagens da escrivaninha no formato L é o espaço extra que se ganha com a bancada extra.
+
+Esse ganho de espaço extra não interfere no seu ambiente atual, pois um dos melhores uso para ela é posicioná-la no canto do quarto (ou escritório).
+
+Além disso o espaço que sobra embaixo dá pra botar a CPU do computador como demonstrado na foto.
+
+Portanto eu diria que essa é uma boa **mesa para computador**
+
+A escrivaninha de canto é ideal se você pretende apoiar múltiplos itens de uma só vez.
+
+As 3 gavetas ao lado permitem uma organização para troca rápidas de periféricos para uso.
+
+Por exemplo, uma maneira de organizar é ter uma gaveta para guardar só os eletrônicos: fones de ouvido, pilhas para o mouse, tablet ou mesa digitalizadora, etc.
+
+Assim você escolhe o item que quer usar no momento e após o uso volta a guardar no seu local, deixando tudo em cima da mesa organizado e espaço suficiente para seu computador ou notebook. 
+
+Com a escrivaninha em L você tem espaço suficiente para colocar notebook, monitor extra, impressora, organizadores de papel, organizores de lápis e canetas, luminárias, mesas digitais, tablet ou celular. 
+
+Só precisa organizar direito cada um deles e reversar a ocupação na mesa para não se tornar uma bagunça.
+
+![Escrivaninha Branca com Design Moderno e Gaveta Larga](../images/escrivaninhas/escrivaninha-de-canto-branca-3-gavetas-armario.jpg)
+
+
+**Escrivaninha com estante. Estilo pallet, moderna e hispter**
+
+Esta escrivaninha tem um design e cor parecidos com os móveis construídos com pallet, um estilo que está bastante popular atualmente.
+
+Pelo jeito que foi projetada, ela parece um estilo DIY, que também está sendo adotado pelo pessoal na internet.
+
+Mesmo com um design minimalista, a projeção inteligente fez com que houvesse um espaço nesta escrivaninha para guardar periféricos e livros.
+
+Para complementar o espaço a escrivaninha é acompanhada de uma estante no mesmo estilo que decora o ambiente e ajuda na organização.
+
+Designers, ilustradores, escritores e músicos costumam gostar deste estilo mais hipster e naturalista.
+
+![Escrivaninha Branca com Design Moderno e Gaveta Larga](../images/escrivaninhas/escrivaninha-de-pallet-moderno-hipster-marrom-com-estante.jpg)
+
+**Escrivaninha moderna com dois andares**
+
+Outra opção de escrivaninha moderna e hipster é a desta foto logo abaixo.
+
+Veja como é projetada esta mesa e como ela lembra um pouco um piano?
+
+Eu não sei se os designers criaram ela pensando na referência do piano, mas devido esta impresão que dá, eu recomendaria este modelo para músicos pianistas e tecladistas.
+
+Uma coisa para tomar cuidado com este modelo é só o espaço para guardar coisas.
+
+Como ela não possui gavetas fica difícil de separar cada coisa em seu lugar. Mas caso tenha gostado deste design, uma opção sempre é comprar um armário complementar.
+
+A organização (para músicos) desta escrivaninha seria o notebook na parte de baixo e os caixas de som no 'primeiro andar' para direcionar o som aos ouvidos.
+
+![Escrivaninha Branca com Design Moderno e Gaveta Larga](../images/escrivaninhas/escrivaninha-design-moderno-desenhar-escrever-quarto-escritorio-branco.jpg)
+
+**Escrivaninha formato padrão com duas gavetas e um armário**
+
+Nesta lista mostramos uma escrivaninha no formato L que possuia também duas gavetas e um armário separado.
+
+A versão abaixo possui as mesmas características contanto que o formato dela é o padrão.
+
+Caso você não tenha um espaço para escrivaninha em L, pode também ter uma opção com armários e gavetas no formato padrão.
+
+A cor desta escrivaninha combina com móveis de cor mais clara.
+
+![Escrivaninha Branca com Design Moderno e Gaveta Larga](../images/escrivaninhas/escrivaninha-duas-gavetas-gaveteiro-elegante-cor-marrom-para-escritorios.jpg)
+
+**Escrivaninha com baú ideal para guardar livros**
+
+Poderiamos chamar o modelo de escrivaninha abaixo de formato L?
+
+Talvez sim, mas levando em consideração que o balcão extra possui um espaço reduzido.
+
+Ela possui um baú lateral pequeno que não é tão comprido mas serve para guardar livros e pôr objetos em cima.
+
+É um modelo ideal para quem tem um espaço reduzido mas precisa de algum lugar para organizar papéis.
+
+![Escrivaninha Branca com Design Moderno e Gaveta Larga](../images/escrivaninhas/escrivaninha-em-l-com-bau-espaco-para-livros-cor-branca.jpg)
 
