@@ -40,7 +40,12 @@ Dependendo do ambiente que você estiver montando, esta escrivaninha estilo hips
 O design moderno com pernas no estilo mesa traz um diferencial para seu quarto, sala ou escritório.
 
 Há espaço para você decorar com livros ou plantas, que dá um visual bem natural e aconhegante.
-![Escrivaninha Branca com Design Hipster Pernas Cruzadas de Mesa](../images/escrivaninhas/escrivaninha-branca-design-moderno-madeira.jpg)
+{% include 
+  item.html 
+  link="https://www.mobly.com.br/escrivaninha-com-estante-delta-carvalho-claro-524799.html"
+  imgSrc="../images/escrivaninhas/escrivaninha-branca-design-moderno-madeira.jpg"
+  imgAlt="Escrivaninha Branca com Design Hipster Perna Angular"
+%}
 
 ### Escrivaninha branca com duas gavetas largas
 
