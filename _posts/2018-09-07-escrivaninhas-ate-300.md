@@ -43,8 +43,10 @@ Há espaço para você decorar com livros ou plantas, que dá um visual bem natu
 {% include 
   item.html 
   link="https://www.mobly.com.br/escrivaninha-com-estante-delta-carvalho-claro-524799.html"
-  imgSrc="../images/escrivaninhas/escrivaninha-branca-design-moderno-madeira.jpg"
+  imgSrc="escrivaninha-branca-design-moderno-madeira.jpg"
   imgAlt="Escrivaninha Branca com Design Hipster Perna Angular"
+  bestUse="Quartos Pequenos / Salas"
+  sizes="Altura: 75,5 cm / Largura: 120 cm / Profundidade: 45 cm"
 %}
 
 ### Escrivaninha branca com duas gavetas largas
@@ -82,7 +84,15 @@ Você pode posicionar seu notebook em cima, decorar com fotos, organizadores de 
 
 Vai ficar muito elegante no seu quarto ou escritório.
 
-![Escrivaninha Branca com Design Moderno e Gaveta Larga](../images/escrivaninhas/escrivaninha-branca-larga-espacosa-simples.jpg)
+{% include 
+  item.html
+  link="http://bit.ly/2CG8FEv"
+  imgSrc="escrivaninha-branca-larga-espacosa-simples.jpg"
+  imgAlt="Escrivaninha Simples Branca Larga"
+  sizes="Altura: 75 cm Largura: 150 cm Profundidade: 45 cm"
+  bestUse="EScritório / Quarto"
+  review="O material da escrivaninha é muito bom. Mas fiquei um pouco decepcionada pois na foto que tem no site, a base da escrivaninha onde escrevemos, no site essa base é reta, sem encaixes. E para montar, essa base veio dividida em três partes, dificultando um pouco a montagem. Essa base teria que ser reta, sem nenhuma parte para encaixar."
+%}
 
 ### Escrivaninha branca compacta para quartos pequenos
 
@@ -96,7 +106,14 @@ Ainda possui um espaçozinho em baixo, muito úteis para guardar materiais que u
 
 Além do mais, ela possui rodinhas que facilitam sua locomoção no quarto ou escritório.
 
-![Escrivaninha Branca com Design Moderno e Gaveta Larga](../images/escrivaninhas/escrivaninha-branca-pequena-para-quarto-pequeno.jpg)
+{% include 
+  item.html
+  link="http://bit.ly/2x3aXZ1"
+  imgSrc="escrivaninha-branca-pequena-para-quarto-pequeno.jpg"
+  imgAlt="Escrivaninha branc compacta para quartos pequenos"
+  sizes="Altura: 76cm / Largura: 68cm / Profundidade: 39cm"
+  bestUse="Quarto Pequeno"
+%}
 
 **Escrivaninha branca, suspensa, com compartimentos para impressora livros e decoração**
 
@@ -144,7 +161,13 @@ Assim fica mais fácil de pegar os itens e depois do uso devolvê-los para o seu
 
 Também é possível usar como espaço de apoio caso esteja utilizando todo o espaço da superfície da mesa.
 
-![Escrivaninha Branca com Design Moderno e Gaveta Larga](../images/escrivaninhas/escrivaninha-cor-canela-duas-gavetas-espaco-para-livro.jpg)
+{% include 
+  item.html
+  link="http://bit.ly/2CIEqNf"
+  imgSrc="escrivaninha-cor-canela-duas-gavetas-espaco-para-livro.jpg"
+  imgAlt="Escrivaninha Marrom Claro com Gavetas Laterais"
+  sizes="Altura: 76,5 cm Largura: 108 cm Profundidade: 45 cm"
+%}
 
 **Escrivaninha compacta com rodinhas ideal para quartos pequenos**
 
@@ -178,9 +201,9 @@ A escrivaninha rústica abaixo possui 3 gavetas para deixar seus materiais organ
 ![Escrivaninha Branca com Design Moderno e Gaveta Larga](../images/escrivaninhas/escrivaninha-cor-marrom-madeira-3-gavetas.jpg)
 
 
-**Escrivaninha em L (de canto) com armário e duas gavetas**
+**Escrivaninha em L (de canto) com armário e três gavetas**
 
-A escrivainha em L, também conhecida como escrivaninha de canto, é uma das mais procuradas na internet e está em grande tendência.
+A escrivaninha em L, também conhecida como escrivaninha de canto, é uma das mais procuradas na internet e está em grande tendência.
 
 Uma das maiores vantagens da escrivaninha no formato L é o espaço extra que se ganha com a bancada extra.
 
@@ -202,7 +225,16 @@ Com a escrivaninha em L você tem espaço suficiente para colocar notebook, moni
 
 Só precisa organizar direito cada um deles e reversar a ocupação na mesa para não se tornar uma bagunça.
 
-![Escrivaninha Branca com Design Moderno e Gaveta Larga](../images/escrivaninhas/escrivaninha-de-canto-branca-3-gavetas-armario.jpg)
+{% include 
+  item.html
+  link="http://bit.ly/2wZ0Mos"
+  imgSrc="escrivaninha-de-canto-branca-3-gavetas-armario.jpg"
+  imgAlt="Escrivaninha em L, de Canto, com 3 Gavetas e Armario"
+  sizes="Altura: 75,5cm. Largura 1: 116,5cm. Largura 2: 151,5cm. Profundidade 1: 37,5cm. Profundidade 2: 46,5cm."
+  bestUse="Escritório / Quarto"
+  review="Esta escrivaninha fica bem grande! Garantindo bastante espaço na área de trabalho. Sua montagem é simples e vem muito bem explicada no manual que acompanha. Além disso, existe a opção de montá-la com as gavetas para a direita ou para a esquerda. Quanto à qualidade e visual, tudo está conforme anunciado. Recomendo!"
+%}
+
 
 
 **Escrivaninha com estante. Estilo pallet, moderna e hispter**
@@ -216,10 +248,15 @@ Mesmo com um design minimalista, a projeção inteligente fez com que houvesse u
 Para complementar o espaço a escrivaninha é acompanhada de uma estante no mesmo estilo que decora o ambiente e ajuda na organização.
 
 Designers, ilustradores, escritores e músicos costumam gostar deste estilo mais hipster e naturalista.
+{% include 
+  item.html
+  link="http://bit.ly/2CII8GJ"
+  imgSrc="escrivaninha-de-pallet-moderno-hipster-marrom-com-estante.jpg"
+  imgAlt="ImgAlt"
+  sizes="Escrivaninha: Altura 75,5 cm Largura 120 cm Profundidade 45 cm / Estante: Altura 135 cm Largura 63 cm Profundidade 36 cm"
+%}
 
-![Escrivaninha Branca com Design Moderno e Gaveta Larga](../images/escrivaninhas/escrivaninha-de-pallet-moderno-hipster-marrom-com-estante.jpg)
-
-**Escrivaninha moderna com dois andares**
+### Escrivaninha moderna com dois andares
 
 Outra opção de escrivaninha moderna e hipster é a desta foto logo abaixo.
 
@@ -233,9 +270,17 @@ Como ela não possui gavetas fica difícil de separar cada coisa em seu lugar. M
 
 A organização (para músicos) desta escrivaninha seria o notebook na parte de baixo e os caixas de som no 'primeiro andar' para direcionar o som aos ouvidos.
 
-![Escrivaninha Branca com Design Moderno e Gaveta Larga](../images/escrivaninhas/escrivaninha-design-moderno-desenhar-escrever-quarto-escritorio-branco.jpg)
+{% include 
+  item.html
+  link="http://bit.ly/2CFYsry"
+  imgSrc="escrivaninha-design-moderno-desenhar-escrever-quarto-escritorio-branco.jpg"
+  imgAlt="Escrivaninha Moderna Desenhar e Escrever Dois Andares Musicos Branca Escritorio Quarto"
+  sizes="Altura: 83,5 cm Largura: 110 cm Profundidade: 58 cm"
+  bestUse="Quarto / Estúdio / Escritório"
+%}
 
-**Escrivaninha formato padrão com duas gavetas e um armário**
+
+### Escrivaninha formato padrão com duas gavetas e um armário
 
 Nesta lista mostramos uma escrivaninha no formato L que possuia também duas gavetas e um armário separado.
 
@@ -245,9 +290,17 @@ Caso você não tenha um espaço para escrivaninha em L, pode também ter uma op
 
 A cor desta escrivaninha combina com móveis de cor mais clara.
 
-![Escrivaninha Branca com Design Moderno e Gaveta Larga](../images/escrivaninhas/escrivaninha-duas-gavetas-gaveteiro-elegante-cor-marrom-para-escritorios.jpg)
+{% include 
+  item.html
+  link="http://bit.ly/2x0MFi7"
+  imgSrc="escrivaninha-duas-gavetas-gaveteiro-elegante-cor-marrom-para-escritorios.jpg"
+  imgAlt="Escrivaninha com duas gavetas e um armário cor marrom"
+  sizes="Altura: 75,5cm. Largura: 135cm. Profundidade: 46,5cm."
+  bestUse="Escritório / Quarto"
+%}
 
-**Escrivaninha com baú ideal para guardar livros**
+
+### Escrivaninha com baú ideal para guardar livros
 
 Poderiamos chamar o modelo de escrivaninha abaixo de formato L?
 
@@ -257,5 +310,13 @@ Ela possui um baú lateral pequeno que não é tão comprido mas serve para guar
 
 É um modelo ideal para quem tem um espaço reduzido mas precisa de algum lugar para organizar papéis.
 
-![Escrivaninha Branca com Design Moderno e Gaveta Larga](../images/escrivaninhas/escrivaninha-em-l-com-bau-espaco-para-livros-cor-branca.jpg)
+{% include 
+  item.html
+  link="http://bit.ly/2x4PLSp"
+  imgSrc="escrivaninha-em-l-com-bau-espaco-para-livros-cor-branca.jpg"
+  imgAlt="Escrivainha com Baú Lateral Para Guardar Livros"
+  sizes="Altura: 75 cm Largura: 137 cm Profundidade: 45 cm"
+  bestUse="Quarto / Escritório"
+%}
+
 
