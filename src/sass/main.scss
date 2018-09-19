@@ -193,7 +193,7 @@ ul {
         -ms-column-gap: 15px;
         -o-column-gap: 15px;
         column-gap: 15px;
-        columns: 2;
+        columns: 50% 2;
     
         max-height: 0;
         overflow: hidden;
@@ -202,7 +202,7 @@ ul {
     
         &.open {
             height: auto;
-            max-height: 300px;
+            max-height: 420px;
             margin-top: 20px;
         }
     

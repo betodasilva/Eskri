@@ -9,20 +9,18 @@ title: 34 Ótimas Escrivaninhas (Boas, Baratas e Duradoras) para Comprar Até R$
 {: .table-of-content }
 </div>
 
-### Escrivaninha suspensa cor branca 
-
-Essa escrivaninha suspensa é ideal para pôr na sala, pois possui espaço para adicionar suporte para televisão, espaço para pôr o notebook e outros compartimentos que cabem perfeitamente sua impressora, livros e até telefone, como mostrado no exemplo. A cor branca na escrivaninha deixa-a combinando com qualquer móvel da sala.
-
-![Escrivaninha Branca Suspensa com Suporte Para TV. Possui gavetas.](../images/escrivaninhas/escrivaninhas-branca-suspensa-suporte-para-tv-gavetas.jpg)
-
 ### Escrivaninha com duas gavetas cor madeira
 
 A escrivaninha abaixo é recomendada para colocar em quartos ou no próprio escritório. Possui um design muito elegante que combina com a maioria dos móveis. Possui 2 gavetas, sendo uma menorzinha que possui um espaço livre em cima, e a outra gaveta possui um espaço maior. Ideal para guardar fichários ou materiais de tamanho médio para grande. 
 
-Ela possui opções de duas cores, sendo uma na cor branca e outra na cor marrom.
-
-![Escrivaninha Bonita Cor Marrom Madeira Para Quarto Com Duas Gavetas](../images/escrivaninhas/escrivaninha-bonita-cor-marrom-madeira-para-quarto-pequeno.jpg)
-
+{% include 
+  item.html
+  link="http://bit.ly/2xk5xJi"
+  imgSrc="escrivaninha-bonita-cor-marrom-madeira-para-quarto-pequeno.jpg"
+  imgAlt="Escrivainha com duas gavetas cor madeira"
+  sizes="Altura: 76 cm Largura: 120 cm Profundidade: 46,5 cm"
+  bestUse="Quarto"
+%}
 
 ### Escrivaninha moderna, cor branca e gaveta larga
 
@@ -31,7 +29,15 @@ Se você tá precisando de uma escrivaninha mais simples, mas que ao mesmo tempo
 Ela possui um estilo bem minimalista, possuindo apenas uma gaveta larga e uma superfície lisa perfeita para pôr o seu notebook e materiais de papelaria.
 
 Serve para escrever, desenhar e usar o computador.
-![Escrivaninha Branca com Design Moderno e Gaveta Larga](../images/escrivaninhas/escrivaninha-branca-design-moderno-gaveta-larga.jpg)
+
+{% include 
+  item.html
+  link="http://bit.ly/2xpaBMo"
+  imgSrc="escrivaninha-branca-design-moderno-gaveta-larga.jpg"
+  imgAlt="Escrivaninha Branca com Design Moderno e Gaveta Larga"
+  sizes="Altura: 75 cm / Largura: 90 cm / Profundidade: 47 cm"
+  bestUse="Quartos Pequenos / Escritórios Pequenos"
+%}
 
 ### Escrivaninha moderna, design elegante de cor branca
 
@@ -58,7 +64,16 @@ Isto porque o espaço largo embaixo da escrivaninha permite que você deixe suas
 É muito ruim a sensação de não poder as pernas depois de estar sentado por um tempo, concorda?
 
 Portanto, se não quiser ter esse problema, a escrivaninha abaixo é ideal para você.
-![Escrivaninha Branca com Design Moderno e Gaveta Larga](../images/escrivaninhas/escrivaninha-branca-duas-gavetas-bonita.jpg)
+
+{% include 
+  item.html
+  link="http://bit.ly/2xnSJSl"
+  imgSrc="escrivaninha-branca-duas-gavetas-bonita.jpg"
+  imgAlt="Escrivaninha com duas gavetas largas cor branca"
+  sizes="Altura: 75,5cm. Largura: 120cm. Profundidade: 45cm."
+  bestUse="Quarto / Escritório"
+  review="Produto bonito, bem acabado e qualidade compatível com o preço."
+%}
 
 ### Escrivaninha branca com duas gavetas laterais
 
@@ -115,7 +130,7 @@ Além do mais, ela possui rodinhas que facilitam sua locomoção no quarto ou es
   bestUse="Quarto Pequeno"
 %}
 
-**Escrivaninha branca, suspensa, com compartimentos para impressora livros e decoração**
+### Escrivaninha branca, suspensa, com compartimentos para impressora livros e decoração
 
 Às vezes as versões pequenas não são suficientes para o tanto de coisas que temos para guardar no nosso quarto ou escritório.
 
@@ -123,9 +138,17 @@ Pensando nisso, trouxemos na lista uma escrivaninha estilo suspensa da cor branc
 
 Precisando de muito espaço para guardar materiais de escritório ─ que você pode entender como material de estudo ou trabalho ─ pode escolher a escrivaninha abaixo sem arrependimento.
 
-![Escrivaninha Branca com Design Moderno e Gaveta Larga](../images/escrivaninhas/escrivaninha-branca-suspensa-compartimentos.jpg)
+{% include 
+  item.html
+  link="http://bit.ly/2xmYZcV"
+  imgSrc="escrivaninha-branca-suspensa-compartimentos.jpg"
+  imgAlt="Escrivaninha suspensa com vários espaços para livros, impressora, decoração"
+  sizes="Altura: 75,5cm. Largura: 120cm. Profundidade: 46,5cm."
+  bestUse="Sala / Quarto / Escritório"
+  review="Excelente qualidade, superou minhas expectativas, indico demais para quem quiser comprar."
+%}
 
-**Escrivaninha para computador com 4 gavetas**
+### Escrivaninha para computador com 4 gavetas
 
 Tal como bem ilustrada na foto, a escrivaninha abaixo é perfeita se você pretende usar como mesa para computador.
 
@@ -137,9 +160,17 @@ Seu design com gavetas que possuem hastes que parecem de metal combinam com as e
 
 Outra vantagem desse modelo é que possui 4 gavetas, profundas e com espaço suficiente para guardar bastante material de escritório, administração.
 
-![Escrivaninha Branca com Design Moderno e Gaveta Larga](../images/escrivaninhas/escrivaninha-com-4-gavetas-branca-para-escritorio.jpg)
+{% include 
+  item.html
+  link="http://bit.ly/2xmw7Br"
+  imgSrc="escrivaninha-com-4-gavetas-branca-para-escritorio.jpg"
+  imgAlt="Escrivaninha para Escritório com 4 Gavetas"
+  sizes="Altura: 75,5cm. Largura: 120cm. Profundidade: 46,5cm / Peso Suportado: Tampo até 25 Kg e Gaveta até 2 Kg por Gaveta."
+  bestUse="Escritório"
+  review="Adorei escrivaninha! É muito moderna! Entrega antes do prazo! Parabéns a equipe mobly pelo excelente atendimento e na venda com qualidade dos produtos oferecidos!"
+%}
 
-**Escrivaninha marrom claro com duas gavetas e espaço extra**
+### Escrivaninha marrom claro com duas gavetas e espaço extra
 
 Se ao invés de computador você possuir notebook mas ainda assim estiver em busca de uma opção com gavetas, o modelo abaixo pode servir para você.
 
@@ -147,9 +178,17 @@ A foto de exemplo abaixo mostra como pode ficar elegante o design com poucos ite
 
 Além de duas gavetas com profundidade razoável, há um espaço livre abaixo para guardar fichários, livros ou usar como decoração.
 
-![Escrivaninha Branca com Design Moderno e Gaveta Larga](../images/escrivaninhas/escrivaninha-com-duas-gavetas-e-espaco-livro-marrom.jpg)
+{% include 
+  item.html
+  link="http://bit.ly/2xlwThZ"
+  imgSrc="escrivaninha-com-duas-gavetas-e-espaco-livro-marrom.jpg"
+  imgAlt="Escrivaninha Marrom Claro com Duas Gavetas e Espaço Extra"
+  sizes="Altura: 75,5cm. Largura: 120cm. Profundidade: 46,5cm."
+  bestUse="Escritório / Quarto"
+  review="Linda, amei, ficou excelente no meu escritório! Facil de montar e chegou dentro do prazo estipulado! Super indico!"
+%}
 
-**Escrivaninha marrom claro com gavetas laterais**
+### Escrivaninha marrom claro com gavetas laterais
 
 Esta escrivaninha cor de madeira marrom claro possui um design diferente das que encontramos normalmente com gavetas lateriais.
 
@@ -169,7 +208,7 @@ Também é possível usar como espaço de apoio caso esteja utilizando todo o es
   sizes="Altura: 76,5 cm Largura: 108 cm Profundidade: 45 cm"
 %}
 
-**Escrivaninha compacta com rodinhas ideal para quartos pequenos**
+### Escrivaninha compacta com rodinhas ideal para quartos pequenos
 
 Nem sempre o maior é a melhor opção.
 
@@ -187,10 +226,16 @@ Como este modelo possui rodinhas, eu vejo como uma boa opção para pôr seu mon
 
 Dessa forma você pode movê-lo para ver filmes antes de dormir. E na hora de trabalhar ou estudar move para perto do computador.
 
-![Escrivaninha Branca com Design Moderno e Gaveta Larga](../images/escrivaninhas/escrivaninha-cor-madeira-clara-com-rodinhas.jpg)
+{% include 
+  item.html
+  link="http://bit.ly/2xnQJJP"
+  imgSrc="escrivaninha-cor-madeira-clara-com-rodinhas.jpg"
+  imgAlt="Escrivaninha pequena com rodinhas"
+  sizes="Altura: 73,3 cm Largura: 75,5 cm Profundidade: 40 cm"
+  bestUse="Quartos Pequenos"
+%}
 
-
-**Escrivaninha rústica com 3 gavetas**
+### Escrivaninha rústica com 3 gavetas
 
 Se você é um apaixonado pelo estilo rústico e adora essas coloração forte de madeira, a escrivaninha abaixo vai te agradar e muito.
 
@@ -198,10 +243,17 @@ Ela tem uma cor de marrom forte, com as marcas de madeira à mostra, que combina
 
 A escrivaninha rústica abaixo possui 3 gavetas para deixar seus materiais organizados.
 
-![Escrivaninha Branca com Design Moderno e Gaveta Larga](../images/escrivaninhas/escrivaninha-cor-marrom-madeira-3-gavetas.jpg)
+{% include 
+  item.html
+  link="http://bit.ly/2xlxKQ1"
+  imgSrc="escrivaninha-cor-marrom-madeira-3-gavetas.jpg"
+  imgAlt="Escrivaninha Rústica com 3 Gavetas"
+  sizes="Altura: 74,5 cm Largura: 136 cm Profundidade: 46,5 cm"
+  bestUse="Quarto / Escritório"
+%}
 
 
-**Escrivaninha em L (de canto) com armário e três gavetas**
+### Escrivaninha em L (de canto) com armário e três gavetas
 
 A escrivaninha em L, também conhecida como escrivaninha de canto, é uma das mais procuradas na internet e está em grande tendência.
 
